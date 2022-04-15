@@ -1,0 +1,1 @@
+C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\Library Manager.csproj;x64
