@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ral2\\Desktop\\Library_Manager_MK\\Library Manager\\Library Manager.csproj": {}
+    "C:\\Users\\MKDL\\Desktop\\Library Manager\\Library Manager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ral2\\Desktop\\Library_Manager_MK\\Library Manager\\Library Manager.csproj": {
+    "C:\\Users\\MKDL\\Desktop\\Library Manager\\Library Manager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ral2\\Desktop\\Library_Manager_MK\\Library Manager\\Library Manager.csproj",
+        "projectUniqueName": "C:\\Users\\MKDL\\Desktop\\Library Manager\\Library Manager.csproj",
         "projectName": "Library Manager",
-        "projectPath": "C:\\Users\\ral2\\Desktop\\Library_Manager_MK\\Library Manager\\Library Manager.csproj",
-        "packagesPath": "C:\\Users\\ral2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ral2\\Desktop\\Library_Manager_MK\\Library Manager\\obj\\",
+        "projectPath": "C:\\Users\\MKDL\\Desktop\\Library Manager\\Library Manager.csproj",
+        "packagesPath": "C:\\Users\\MKDL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MKDL\\Desktop\\Library Manager\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -19,7 +19,7 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ral2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MKDL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

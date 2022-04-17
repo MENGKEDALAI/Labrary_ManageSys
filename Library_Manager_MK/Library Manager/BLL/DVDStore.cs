@@ -41,12 +41,20 @@ namespace LibraryManager.BLL
         {
             return DVDs.FindAll(i => i.director == director);
         }
+        public List<DVD> SearchByAuthorNationality(String nation)
+        {
+            return DVDs.FindAll(i => i.nationality == nation);
+        }
 
-        public void AddNewDVD(String title, int barcode, String director)
+        public List<DVD> SearchByAuthorBirth(DateTime birthDate)
+        {
+            return DVDs.FindAll(i => i.birthDate == birthDate);
+        }
+        public void AddNewDVD(String title, int barcode, String director, String nationality, DateTime birthDate)
         {
             if (!DVDs.Exists(i => i.barcode == barcode))
             {
-                DVD dvd = new DVD(title, barcode, director);
+                DVD dvd = new DVD(title, barcode, director, nationality, birthDate);
                 DVDs.Add(dvd);
             }
         }

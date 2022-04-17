@@ -24,6 +24,7 @@ namespace LibraryManager
     /// </summary>
     public sealed partial class MemberSearchPage : Page
     {
+        //This will be presented in the list
         ObservableCollection<Member> members = new ObservableCollection<Member>();
 
         public MemberSearchPage()
@@ -32,7 +33,8 @@ namespace LibraryManager
 
             LoadAllMembers();
 
-            //this.NavigationCacheMode = NavigationCacheMode.Enabled;
+            //We set the navigation cache mode -> the page will be chached while we are "away" from it.
+           // this.NavigationCacheMode = NavigationCacheMode.Enabled;
         }
 
         //Loads all members
@@ -49,17 +51,17 @@ namespace LibraryManager
 
         private void ListView_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            if (MembersListView.SelectedIndex < 0) return;
             Member mb = members[MembersListView.SelectedIndex];
+
             this.Frame.Navigate(typeof(MemberLoanPage), mb.id);
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             members.Clear();
-            foreach (var member in MemberStore.Instance.members)
+            foreach (Member member in MemberStore.Instance.members)
             {
-                if (member.name.ToLower().Contains(txtBoxName.Text.ToLower()) && member.id.Contains(txtBoxID.Text.ToLower()))
+                if (member.name.ToLower().Contains(txtBoxName.Text) && member.id.Contains(txtBoxID.Text))
                 { 
                     members.Add(member);
                 }

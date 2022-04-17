@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibraryManager.BLL.Book">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAABAAAAIAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>BLL\Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManager.BLL.BookStore">
+    <Position X="0.5" Y="6" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AgAAACAAAAAAAAAAAACAAEAAAABAAAEAYAEEQAAAAAA=</HashCode>
+      <FileName>BLL\BookStore.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryManager.BLL.DVD">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAABAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>BLL\DVD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManager.BLL.DVDStore">
+    <Position X="4.5" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAQAAAAIAAAAQAAABABBAAAAAcAAAAAAAAAA=</HashCode>
+      <FileName>BLL\DVDStore.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LibraryManager.BLL.Item">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAQAIAAAAAAAAAAAAAQAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>BLL\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManager.BLL.Loan">
+    <Position X="0.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAQAAAAAAAAAAAAACAAAAAAIAAA=</HashCode>
+      <FileName>BLL\Loan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManager.BLL.LoanStore">
+    <Position X="4.5" Y="7.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAABBAAAAQQAAAACAAAAE=</HashCode>
+      <FileName>BLL\LoanStore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManager.BLL.Member">
+    <Position X="7.5" Y="7.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAwAAAABAAAAQAAAAAEEAAAAAAIAAAAAgA=</HashCode>
+      <FileName>BLL\Member.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManager.BLL.MemberStore">
+    <Position X="7.5" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAQAAACAAAAAAAAAABgAAQAQAAAAAAAoAA=</HashCode>
+      <FileName>BLL\MemberStore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManager.BLL.PaymentRequest">
+    <Position X="2.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAIAAA=</HashCode>
+      <FileName>BLL\PaymentRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="LibraryManager.BLL.ItemSearch&lt;T&gt;">
+    <Position X="2.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA=</HashCode>
+      <FileName>BLL\ItemSearch.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

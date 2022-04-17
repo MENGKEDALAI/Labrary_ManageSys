@@ -45,12 +45,21 @@ namespace LibraryManager.BLL
         {
             return books.FindAll(i => i.ISBN == ISBN);
         }
+        public List<Book> SearchByAuthorNationality(String nation)
+        {
+            return books.FindAll(i => i.nationality == nation);
+        }
 
-        public void AddNewBook(String title, int barcode, String ISBN, String author)
+        public List<Book> SearchByAuthorBirth(DateTime birthDate)
+        {
+            return books.FindAll(i => i.birthDate == birthDate);
+        }
+
+        public void AddNewBook(String title, int barcode, String ISBN, String author, String nationality, DateTime birthDate)
         {
             if (!books.Exists(i => i.barcode == barcode))
             {
-                Book book = new Book(title, barcode, ISBN, author);
+                Book book = new Book(title, barcode, ISBN, author, nationality, birthDate);
                 books.Add(book);
             }
         }

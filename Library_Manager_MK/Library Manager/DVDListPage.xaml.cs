@@ -75,8 +75,8 @@ namespace LibraryManager
 
             ContentDialogResult result = await loanDVDDialog.ShowAsync();
 
-            // If the user clicked the primary button,loan the book 
-            /// Otherwise, no anything
+            // Loan the book if the user clicked the primary button.
+            /// Otherwise, do nothing.
             if (result == ContentDialogResult.Primary)
             {
                 // TODO: Loan the book

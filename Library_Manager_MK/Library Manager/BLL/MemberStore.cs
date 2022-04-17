@@ -36,12 +36,20 @@ namespace LibraryManager.BLL
         {
             return members.Find(m => m.id == id);
         }
+        public List<Member> GetMembersByNationality(String nationality)
+        {
+            return members.FindAll(m => m.nationality == nationality);
+        }
+        public List<Member> GetMembersByBirth(DateTime birthDate)
+        {
+            return members.FindAll(m => m.birthDate == birthDate);
+        }
 
-        public void AddNewMember(String id, String name)
+        public void AddNewMember(String id, String name, String nationality, DateTime birthDate)
         {
             if (!members.Exists(m => m.id == id))
             {
-                Member member = new Member(id, name);
+                Member member = new Member(id, name, nationality, birthDate);
                 members.Add(member);
             }
         }
