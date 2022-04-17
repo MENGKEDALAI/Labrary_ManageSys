@@ -10,22 +10,22 @@
     <PackageArchitecture>arm</PackageArchitecture>
     <PackageIdentityName>75a0b53e-d53d-4760-b652-898a103bd666</PackageIdentityName>
     <PackageIdentityPublisher>CN=blazovics</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\obj\ARM\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\MKDL\Desktop\Library Manager\obj\ARM\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\bin\ARM\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\MKDL\Desktop\Library Manager\bin\ARM\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\bin\ARM\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\MKDL\Desktop\Library Manager\bin\ARM\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\bin\ARM\Debug\Library Manager.exe">
+    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library Manager\bin\ARM\Debug\Library Manager.exe">
       <PackagePath>entrypoint\Library Manager.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\MKDL\.nuget\packages\newtonsoft.json\13.0.1\lib\netstandard2.0\Newtonsoft.Json.dll">
@@ -37,64 +37,64 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library Manager\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library Manager\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library Manager\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library Manager\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library Manager\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library Manager\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library Manager\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library Manager\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\bin\ARM\Debug\Library Manager.xr.xml">
+    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library Manager\bin\ARM\Debug\Library Manager.xr.xml">
       <PackagePath>Library Manager.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\bin\ARM\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library Manager\bin\ARM\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\bin\ARM\Debug\BookListPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library Manager\bin\ARM\Debug\BookListPage.xbf">
       <PackagePath>BookListPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\bin\ARM\Debug\DVDListPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library Manager\bin\ARM\Debug\DVDListPage.xbf">
       <PackagePath>DVDListPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\bin\ARM\Debug\LoadingPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library Manager\bin\ARM\Debug\LoadingPage.xbf">
       <PackagePath>LoadingPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\bin\ARM\Debug\MemberLoanPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library Manager\bin\ARM\Debug\MemberLoanPage.xbf">
       <PackagePath>MemberLoanPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\bin\ARM\Debug\MemberSearchPage.xbf">
+    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library Manager\bin\ARM\Debug\MemberSearchPage.xbf">
       <PackagePath>MemberSearchPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\bin\ARM\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library Manager\bin\ARM\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library_Manager_hw%281%29\Library Manager\bin\ARM\Debug\Core\Library Manager.exe">
+    <AppxPackagedFile Include="C:\Users\MKDL\Desktop\Library Manager\bin\ARM\Debug\Core\Library Manager.exe">
       <PackagePath>Library Manager.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

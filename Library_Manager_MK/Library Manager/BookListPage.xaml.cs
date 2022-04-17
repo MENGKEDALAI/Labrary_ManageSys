@@ -25,6 +25,7 @@ namespace LibraryManager
     {
         public List<Book> books;
 
+        //storing the member with whom the loan should be associated
         public Member selectedMember {get; set;}
 
         public BookListPage()
@@ -74,8 +75,8 @@ namespace LibraryManager
 
             ContentDialogResult result = await loanBookDialog.ShowAsync();
 
-            // If the user clicked the primary button then,Loan the book 
-            /// Otherwise, no action.
+            // Loan the book if the user clicked the primary button.
+            /// Otherwise, do nothing.
             if (result == ContentDialogResult.Primary)
             {
                 // TODO: Loan the book

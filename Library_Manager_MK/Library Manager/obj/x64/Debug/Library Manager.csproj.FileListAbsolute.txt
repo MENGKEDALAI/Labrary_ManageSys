@@ -125,70 +125,135 @@ C:\Users\nicat\OneDrive\Рабочий стол\UWP_Task-main\Library Manager\ob
 C:\Users\nicat\OneDrive\Рабочий стол\UWP_Task-main\Library Manager\obj\x64\Debug\DVDListPage.g.cs
 C:\Users\nicat\OneDrive\Рабочий стол\UWP_Task-main\Library Manager\obj\x64\Debug\DVDListPage.xaml
 C:\Users\nicat\OneDrive\Рабочий стол\UWP_Task-main\Library Manager\obj\x64\Debug\DVDListPage.xbf
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\bin\x64\Debug\App.xbf
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\bin\x64\Debug\BookListPage.xbf
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\bin\x64\Debug\DVDListPage.xbf
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\bin\x64\Debug\LoadingPage.xbf
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\bin\x64\Debug\MemberLoanPage.xbf
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\bin\x64\Debug\MemberSearchPage.xbf
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\bin\x64\Debug\Library Manager.xr.xml
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\bin\x64\Debug\Library Manager.exe
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\bin\x64\Debug\Library Manager.pdb
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\bin\x64\Debug\resources.pri
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\bin\x64\Debug\AppxManifest.xml
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\bin\x64\Debug\Core\AppxManifest.xml
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\bin\x64\Debug\Core\Library Manager.exe
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\bin\x64\Debug\Library Manager.build.appxrecipe
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\bin\x64\Debug\Newtonsoft.Json.dll
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\bin\x64\Debug\System.Runtime.dll
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\Library Manager.csproj.AssemblyReference.cache
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\App.g.i.cs
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\App.g.cs
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\BookListPage.g.i.cs
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\BookListPage.g.cs
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\DVDListPage.g.i.cs
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\DVDListPage.g.cs
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\LoadingPage.g.i.cs
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\LoadingPage.g.cs
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\MemberLoanPage.g.i.cs
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\MemberLoanPage.g.cs
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\MemberSearchPage.g.i.cs
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\MemberSearchPage.g.cs
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\XamlTypeInfo.g.cs
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\App.xaml
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\BookListPage.xaml
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\DVDListPage.xaml
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\LoadingPage.xaml
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\MemberLoanPage.xaml
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\MemberSearchPage.xaml
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\App.xbf
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\BookListPage.xbf
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\DVDListPage.xbf
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\LoadingPage.xbf
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\MemberLoanPage.xbf
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\MemberSearchPage.xbf
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\XamlSaveStateFile.xml
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\Library Manager.csproj.CoreCompileInputs.cache
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\Library Manager.csproj.CopyComplete
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\Library Manager.exe
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\Library Manager.pdb
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\ResourceHandlingTask.state
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\priconfig.xml
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\priconfig.xml.intermediate
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\unfiltered.layout.resfiles
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\filtered.layout.resfiles
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\filtered.layout.resfiles.intermediate
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\excluded.layout.resfiles
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\excluded.layout.resfiles.intermediate
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\resources.resfiles
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\resources.resfiles.intermediate
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\pri.resfiles
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\pri.resfiles.intermediate
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\qualifiers.txt
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\qualifiers.txt.intermediate
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\ProjectArchitectures.txt
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
-C:\Users\ral2\Desktop\Library_Manager_MK\Library Manager\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\bin\x64\Debug\App.xbf
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\bin\x64\Debug\BookListPage.xbf
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\bin\x64\Debug\DVDListPage.xbf
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\bin\x64\Debug\LoadingPage.xbf
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\bin\x64\Debug\MemberLoanPage.xbf
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\bin\x64\Debug\MemberSearchPage.xbf
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\bin\x64\Debug\Library Manager.xr.xml
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\bin\x64\Debug\Library Manager.exe
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\bin\x64\Debug\Library Manager.pdb
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\bin\x64\Debug\resources.pri
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\bin\x64\Debug\AppxManifest.xml
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\bin\x64\Debug\Core\Library Manager.exe
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\bin\x64\Debug\Library Manager.build.appxrecipe
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\bin\x64\Debug\System.Runtime.dll
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\Library Manager.csproj.AssemblyReference.cache
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\App.g.i.cs
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\App.g.cs
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\BookListPage.g.i.cs
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\BookListPage.g.cs
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\DVDListPage.g.i.cs
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\DVDListPage.g.cs
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\LoadingPage.g.i.cs
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\LoadingPage.g.cs
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\MemberLoanPage.g.i.cs
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\MemberLoanPage.g.cs
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\MemberSearchPage.g.i.cs
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\MemberSearchPage.g.cs
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\App.xaml
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\BookListPage.xaml
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\DVDListPage.xaml
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\LoadingPage.xaml
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\MemberLoanPage.xaml
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\MemberSearchPage.xaml
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\App.xbf
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\BookListPage.xbf
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\DVDListPage.xbf
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\LoadingPage.xbf
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\MemberLoanPage.xbf
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\MemberSearchPage.xbf
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\Library Manager.csproj.CoreCompileInputs.cache
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\Library Manager.csproj.CopyComplete
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\Library Manager.exe
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\Library Manager.pdb
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\priconfig.xml
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\resources.resfiles
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\pri.resfiles
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\qualifiers.txt
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Ayad\Desktop\UWP_Task\Library Manager\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\bin\x64\Debug\App.xbf
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\bin\x64\Debug\BookListPage.xbf
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\bin\x64\Debug\DVDListPage.xbf
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\bin\x64\Debug\LoadingPage.xbf
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\bin\x64\Debug\MemberLoanPage.xbf
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\bin\x64\Debug\MemberSearchPage.xbf
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\bin\x64\Debug\Library Manager.xr.xml
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\bin\x64\Debug\Library Manager.exe
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\bin\x64\Debug\Library Manager.pdb
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\bin\x64\Debug\resources.pri
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\bin\x64\Debug\AppxManifest.xml
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\bin\x64\Debug\Core\Library Manager.exe
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\bin\x64\Debug\Library Manager.build.appxrecipe
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\bin\x64\Debug\System.Runtime.dll
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\Library Manager.csproj.AssemblyReference.cache
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\App.g.i.cs
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\App.g.cs
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\BookListPage.g.i.cs
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\BookListPage.g.cs
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\DVDListPage.g.i.cs
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\DVDListPage.g.cs
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\LoadingPage.g.i.cs
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\LoadingPage.g.cs
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\MemberLoanPage.g.i.cs
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\MemberLoanPage.g.cs
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\MemberSearchPage.g.i.cs
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\MemberSearchPage.g.cs
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\App.xaml
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\BookListPage.xaml
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\DVDListPage.xaml
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\LoadingPage.xaml
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\MemberLoanPage.xaml
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\MemberSearchPage.xaml
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\App.xbf
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\BookListPage.xbf
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\DVDListPage.xbf
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\LoadingPage.xbf
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\MemberLoanPage.xbf
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\MemberSearchPage.xbf
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\Library Manager.csproj.CoreCompileInputs.cache
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\Library Manager.csproj.CopyComplete
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\Library Manager.exe
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\Library Manager.pdb
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\priconfig.xml
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\resources.resfiles
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\pri.resfiles
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\qualifiers.txt
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Ayad\Desktop\LibraryApp\UWP_Task\Library Manager\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json

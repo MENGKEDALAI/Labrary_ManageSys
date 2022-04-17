@@ -3,6 +3,7 @@ namespace LibraryManager.BLL
 {
     public class PaymentRequest
     {
+
         public PaymentRequest(int amount)
         {
             this.amount = amount;

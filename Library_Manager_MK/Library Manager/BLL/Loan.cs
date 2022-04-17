@@ -3,6 +3,7 @@ namespace LibraryManager.BLL
 {
     public class Loan
     {
+
         public Loan(Item item, Member member)
         {
             this.item = item;
